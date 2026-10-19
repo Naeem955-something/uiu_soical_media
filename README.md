@@ -243,10 +243,6 @@ flowchart TD
 
 
 
-> 📄 **Looking for the official submission document?** A detailed task contribution report is provided in [`UniConnect_Task_Contribution_13_Features.docx`](./UniConnect_Task_Contribution_13_Features.docx).
-
----
-
 ## 🔑 Seed Accounts & Demo Credentials
 
 Use any of these pre-configured accounts (Password: `password123` for all):
