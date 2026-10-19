@@ -241,16 +241,7 @@ flowchart TD
 
 ---
 
-## 👥 4-Member Work Contribution Matrix
 
-An equal 25% distribution of responsibilities across the full software lifecycle:
-
-| Member | Assigned Features | Primary Architectural Role | Key Deliverables |
-| :--- | :--- | :--- | :--- |
-| **Member 1** | • Campus Feed & Posts<br>• Resource Library<br>• Academic Profile & CV Export | **Frontend Architecture & File Systems** | Implemented `fileHelpers.ts`, base64 device file pickers, real browser downloads, and CV export. |
-| **Member 2** | • Communities & Clubs<br>• Real-Time Chat Channels<br>• Theme Engine | **Real-Time Communications & UI Systems** | Built automatic community group chat generator, direct message threads, and dark/light mode engine. |
-| **Member 3** | • Campus Marketplace<br>• Events & QR Ticketing<br>• Lost & Found Hub | **Commerce, Events & Verification Workflows** | Built marketplace item listings, seller chat bridge, QR pass generator, and claim verification modal. |
-| **Member 4** | • Auth & Security<br>• Admin Moderation<br>• Backend API & Seed Engine | **Backend, Database & Platform Security** | Express REST endpoints, JWT auth, MongoMemoryServer auto-fallback, and seeding scripts. |
 
 > 📄 **Looking for the official submission document?** A detailed task contribution report is provided in [`UniConnect_Task_Contribution_13_Features.docx`](./UniConnect_Task_Contribution_13_Features.docx).
 
